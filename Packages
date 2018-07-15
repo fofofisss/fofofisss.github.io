@@ -39,3 +39,17 @@ Filename: ./bebs/com.fofofisss.applist.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.applist
 Size: 10858
 ND5sum: cd8cc24cb82a6714a6a1a41424d72e22
+
+Package: com.fofofisss.flex3beta3
+Name: flex3beta3
+Depends: mobilesubstrate
+Version: 3-Beta6
+Architecture: iphoneos-arm
+Description: کرک کردن توییک ها و اپ ها
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.flex3beta3.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3
+Size: 18767,086
+ND5sum: 4ad8cb73aa7d37b5ee9746c6421fc956
