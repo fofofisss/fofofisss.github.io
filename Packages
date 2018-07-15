@@ -81,3 +81,17 @@ Filename: ./bebs/com.fofofisss.betterpowerdown.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.betterpowerdown
 Size: 65,648
 ND5sum: 6bd45a2dc240b1512bfa779eb8ebdb34
+
+Package: com.fofofisss.newterm2
+Name: Terminal
+Depends: mobilesubstrate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: ترمینال برای ios
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.newterm2.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.newterm2
+Size: 739424
+ND5sum: 1a7d4b856392cc19114e7a4356ba9252
