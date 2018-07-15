@@ -53,3 +53,17 @@ Filename: ./bebs/com.fofofisss.flex3beta3.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3
 Size: 18767,086
 ND5sum: 4ad8cb73aa7d37b5ee9746c6421fc956
+
+Package: com.fofofisss.expressvpn
+Name: EXPRESS VPN HACK
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: کرک کردن اپلیکیشن EXPRESS VPN
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.expressvpn.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.expressvpn
+Size: 2942
+ND5sum: 654ba5462e05c6aaebb48afbe6e4b8b5
