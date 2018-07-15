@@ -1,10 +1,10 @@
 <package>
-	<id>com.fofofisss.libertylite</id>
+	<id>com.fofofisss.applist</id>
 	<name>Old Package</name>
-	<version>0.9.2</version>
+	<version>1.5.14</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>11.3.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed

@@ -23,5 +23,19 @@ Author: iAnas
 Section: Theme
 Filename: ./bebs/com.fofofisss.acehighsierra.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.acehightsierra
-Size: 10468
+Size: 10719042
 ND5sum: 70ed674f0aa6bb949d1567b53332bfd8
+
+Package: com.fofofisss.applist
+Name: AppList
+Depends: mobilesubstrate
+Version: 1.5.14
+Architecture: iphoneos-arm
+Description: applist
+Maintainer: Ryan Petrich
+Author: Ryan Petrich
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.applist.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.applist
+Size: 10858
+ND5sum: cd8cc24cb82a6714a6a1a41424d72e22
