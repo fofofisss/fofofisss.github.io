@@ -95,3 +95,17 @@ Filename: ./bebs/com.fofofisss.newterm2.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.newterm2
 Size: 739424
 ND5sum: 1a7d4b856392cc19114e7a4356ba9252
+
+Package: com.fofofisss.timetounlock
+Name: TimeToUnlock
+Depends: mobilesubstrate
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: باز کردن گوشی با ساعت گوشی
+Maintainer: jakeahacks
+Author: jakeahacks
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.timetounlock.deb
+Depiction: https://fofofisss.github.io/depictions/?p=ccom.fofofisss.timetounlock
+Size: 33822
+ND5sum: 37e72131db99c6f064fc26cab3280389
