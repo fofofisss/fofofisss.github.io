@@ -109,3 +109,17 @@ Filename: ./bebs/com.fofofisss.bioprotect.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.bioprotect
 Size: 595868
 ND5sum: 1c02f6edc8598b7c1f76133865aec70a
+
+Package: com.fofofisss.inapp
+Name: InApp
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: هک پرداخت های درون برنامه ای
+Maintainer: jakeahacks
+Author: jakeahacks
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.inapp.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.inapp
+Size: 4080
+ND5sum: 6f6657e364bb0a64b621f6d9aa60878b
