@@ -67,3 +67,17 @@ Filename: ./bebs/com.fofofisss.expressvpn.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.expressvpn
 Size: 2942
 ND5sum: 654ba5462e05c6aaebb48afbe6e4b8b5
+
+Package: com.fofofisss.betterpowerdown
+Name: betterpowerdown
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: اضافه کردن ریسپرینگ و ریبوت به صفحه ی خاموش کردن گوشی
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.betterpowerdown.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.betterpowerdown
+Size: 65,648
+ND5sum: 6bd45a2dc240b1512bfa779eb8ebdb34
