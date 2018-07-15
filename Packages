@@ -11,3 +11,17 @@ Filename: ./bebs/com.fofofisss.libertylite.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.libertylite
 Size: 46606
 ND5sum: 5dbb2eaf5a80686ef059942ac9ba0d20
+
+Package: com.fofofisss.acehighsierra
+Name: Ace Hight Sierra
+Depends: mobilesubstrate
+Version: 3.0
+Architecture: iphoneos-arm
+Description: تغییر تم به تم Mac OS
+Maintainer: iAnas
+Author: iAnas
+Section: Theme
+Filename: ./bebs/com.fofofisss.acehighsierra.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.acehightsierra
+Size: 10468
+ND5sum: 70ed674f0aa6bb949d1567b53332bfd8
