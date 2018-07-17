@@ -1,0 +1,23 @@
+<package>
+	<id>com.fofofisss.semirestore11_1.0</id>
+	<name>Old Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>11.2</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>ریستور به ورژن فعلی در ios11.3تا 11.4 بتا 6</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

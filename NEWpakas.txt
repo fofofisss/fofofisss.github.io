@@ -1,0 +1,13 @@
+Package: 
+Name: 
+Depends: mobilesubstrate
+Version: 
+Architecture: iphoneos-arm
+Description: 
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/.deb
+Depiction: https://fofofisss.github.io/depictions/?p=
+Size: 
+MD5sum: 

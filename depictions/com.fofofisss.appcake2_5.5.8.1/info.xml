@@ -1,0 +1,24 @@
+<package>
+	<id>com.fofofisss.appcake2_5.5.8.1</id>
+	<name>Old Package</name>
+	<version>2_5.5.8.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>نصب اپ ها پولی اپ استور و استخراج فایل ipaاپ هی
+		در ای او اس 11امکان استخراج نمیباشد</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
