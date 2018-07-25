@@ -153,7 +153,7 @@ Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appcake2_5.5.
 Size: 10313206
 MD5sum: ac49cfa46b14070fa26c47a82346e04c
 
-Package: com.fofofisss.semirestore11_1.0
+Package: com.fofofisss.semirestore11
 Name: semirestorre1131
 Depends: mobilesubstrate
 Version: 1.0
@@ -162,8 +162,8 @@ Description: ریستور به ورژن فعلی در ios11.3تا 11.4 بتا 6
 Maintainer: fofofisss
 Author: fofofisss
 Section:  APP
-Filename: ./bebs/com.fofofisss.semirestore11_1.0.deb
-Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.semirestore11_1.0
+Filename: ./bebs/com.fofofisss.semirestore11.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.semirestore11
 Size: 87004
 MD5sum: 205920cb3c747fa2578ff2c920215b03
 
