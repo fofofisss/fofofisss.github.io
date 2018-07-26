@@ -124,7 +124,7 @@ Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.inapp
 Size: 4080
 ND5sum: 6f6657e364bb0a64b621f6d9aa60878b
 
-Package: com.fofofisss.tsssaver_1.2.0
+Package: com.fofofisss.tsssaver
 Name: tsssaver
 Depends: mobilesubstrate
 Version: 1.2.0
@@ -133,12 +133,12 @@ Description: ذخیره کردن shsh تنها با یک کلیک
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.tsssaver_1.2.0.deb
-Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.tsssaver_1.2.0
+Filename: ./bebs/com.fofofisss.tsssaver.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.tsssaver
 Size: 152032
 MD5sum: fe2e43efaa390e4b81f100175ad1cddb
 
-Package: com.fofofisss.appcake2_5.5.8.1
+Package: com.fofofisss.appcake
 Name: AppCake
 Depends: mobilesubstrate
 Version: 2_5.5.21
@@ -148,8 +148,8 @@ Description: نصب اپ ها پولی اپ استور و استخراج فای�
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.appcake2_5.5.8.1.deb
-Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appcake2_5.5.8.1
+Filename: ./bebs/com.fofofisss.appcake.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appcake
 Size: 10313206
 MD5sum: ac49cfa46b14070fa26c47a82346e04c
 
@@ -167,7 +167,7 @@ Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.semirestore11
 Size: 87004
 MD5sum: 205920cb3c747fa2578ff2c920215b03
 
-Package: com.fofofisss.appsyncunified_30.0
+Package: com.fofofisss.appsyncunified
 Name: AppSync Unified
 Depends: mobilesubstrate
 Version: 30.0
@@ -176,12 +176,12 @@ Description: نصب برنامه بدون کامپیوتر و با فیلزا و
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.appsyncunified_30.0.deb
-Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appsyncunified_30.0
+Filename: ./bebs/com.fofofisss.appsyncunified.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appsyncunified
 Size: 29154
 MD5sum: 9324ec4b8957660754d23207275a0e1d
 
-Package: com.fofofisss.flex3beta3_3~Beta46
+Package: com.fofofisss.flex3beta3
 Name: flex3
 Depends: mobilesubstrate
 Version: 3-Beta46
@@ -190,7 +190,7 @@ Description: کرک کردن برنامه ها  توییک ها
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.flex3beta3_3~Beta46.deb
-Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3_3~Beta46
+Filename: ./bebs/com.fofofisss.flex3beta3.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3
 Size: 18767086
 MD5sum: 4ad8cb73aa7d37b5ee9746c6421fc956
