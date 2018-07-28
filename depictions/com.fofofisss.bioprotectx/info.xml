@@ -1,0 +1,23 @@
+<package>
+	<id>com.fofofisss.bioprotectx</id>
+	<name>Old Package</name>
+	<version>3.0-6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>قفل کردن اپ ها با تاچ ای دی و یا فیس ای دی</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

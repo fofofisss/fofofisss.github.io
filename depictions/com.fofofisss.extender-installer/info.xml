@@ -1,0 +1,23 @@
+<package>
+	<id>com.fofofisss.extender-installer</id>
+	<name>Old Package</name>
+	<version>021a</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>نصب و ری ساین کردن برنامه ها</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

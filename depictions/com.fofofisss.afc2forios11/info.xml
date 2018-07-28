@@ -1,0 +1,23 @@
+<package>
+	<id>com.fofofisss.afc2forios11</id>
+	<name>Old Package</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>دسترسی به فایل های سیستمی از طریق usb در ios11</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

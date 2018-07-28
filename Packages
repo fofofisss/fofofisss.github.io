@@ -194,3 +194,143 @@ Filename: ./bebs/com.fofofisss.flex3beta3.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3
 Size: 18767086
 MD5sum: 4ad8cb73aa7d37b5ee9746c6421fc956
+
+Package: com.fofofisss.cracktool
+Name: cracktool
+Depends: mobilesubstrate
+Version: beta 5
+Architecture: iphoneos-arm
+Description: کرک کردن توییک ها  با یک کلیک
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.cracktool.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.cracktool
+Size: 12442
+MD5sum: 53c31487134683b1e0a6a67031f8c29f
+
+Package: com.fofofisss.mimport
+Name: mimport
+Depends: mobilesubstrate
+Version: beta34
+Architecture: iphoneos-arm
+Description: انتقال اهنگ از اپ ها به اپلیکیشن موزیک بدون کامپیوتر
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.mimport.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.mimport
+Size: 628510
+MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
+
+Package: com.fofofisss.safariplus
+Name: safariplus
+Depends: mobilesubstrate
+Version: 1.5.5
+Architecture: iphoneos-arm
+Description: افزودن قابلیت های کاربدی  به اپ سافاری از جمله دانلود فایل 
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.safariplus.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.safariplus
+Size: 320308
+MD5sum: 5a838fb2ddfcbe2a4f81ff9d99d432f2
+
+Package: com.fofofisss.bioprotectx
+Name: Bioprotectx
+Depends: mobilesubstrate
+Version: 3.0-6
+Architecture: iphoneos-arm
+Description: قفل کردن اپ ها با تاچ ای دی و یا فیس ای دی
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.bioprotectx.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.bioprotectx
+Size: 595848
+MD5sum: c303d7702cbea1d7f2bf7c59d2e3199b
+
+Package: com.fofofisss.extender-installer
+Name: Ext3ender Installer
+Depends: mobilesubstrate
+Version: 021a
+Architecture: iphoneos-arm
+Description: نصب و ری ساین کردن برنامه ها
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/extender-installer.deb
+Depiction: https://fofofisss.github.io/depictions/?p=extender-installer
+Size: 457476
+MD5sum: 95aca239fb1cabe19c13b982d9530fa8
+
+Package: com.fofofisss.appdatamanager
+Name: Apps manager
+Depends: mobilesubstrate
+Version: 1.3.0
+Architecture: iphoneos-arm
+Description: بکاپ گرفتن از دیتای برنامه ها
+Maintainer: fofofisss
+Author: fofofisss
+Section: APP
+Filename: ./bebs/com.fofofisss.appdatamanager.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appdatamanager
+Size: 2154310
+MD5sum: 47035ace06a04dec25905e40629a4983
+
+Package: com.fofofisss.datameter
+Name: DtaMeter
+Depends: mobilesubstrate
+Version: 1.4-3
+Architecture: iphoneos-arm
+Description: نمایش دیتا در صفحه نمایشگوشی
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.datameter.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.datameter
+Size: 243488
+MD5sum: 80e1bd6c3ce991910ed25f6c77cf1770
+
+Package: com.fofofisss.audiorecorder
+Name: AudioRecorder
+Depends: mobilesubstrate
+Version: 1.6-93
+Architecture: iphoneos-arm
+Description: ضبط تماس های ورودی و خروجی
+Maintainer: fofofisss
+Author: fofofisss
+Section: APP
+Filename: ./bebs/com.fofofisss.audiorecorder.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.audiorecorder
+Size: 3834506
+MD5sum: 5f36f776d8c39cac50142d047a07d06c
+
+Package: com.fofofisss.afc2forios11
+Name: AFC2
+Depends: mobilesubstrate
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: دسترسی به فایل های سیستمی از طریق usb در ios11
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/com.fofofisss.afc2forios11.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.afc2forios11
+Size: 
+MD5sum: 
+
+Package: 
+Name: 
+Depends: mobilesubstrate
+Version: 
+Architecture: iphoneos-arm
+Description: 
+Maintainer: fofofisss
+Author: fofofisss
+Section: Tweaks
+Filename: ./bebs/
+Depiction: https://fofofisss.github.io/depictions/?p=
+Size: 
+MD5sum: 
