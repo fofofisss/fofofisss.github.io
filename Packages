@@ -307,7 +307,7 @@ Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.audiorecorder
 Size: 3834506
 MD5sum: 5f36f776d8c39cac50142d047a07d06c
 
-Package: com.fofofisss.afc2forios11
+Package: com.fofofisss.afc2
 Name: AFC2
 Depends: mobilesubstrate
 Version: 1.2.1
@@ -316,8 +316,8 @@ Description: دسترسی به فایل های سیستمی از طریق usb د
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.afc2forios11.deb
-Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.afc2forios11
+Filename: ./bebs/com.fofofisss.afc2.deb
+Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.afc2
 Size: 
 MD5sum: 
 
