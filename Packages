@@ -7,7 +7,7 @@ Description: Currently in beta, aspires to be an advanced, fully Bio-Protected c
 Maintainer: Samar
 Author: Samar
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.libertylite.deb
+Filename: ./debs/com.fofofisss.libertylite.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.libertylite
 Size: 46606
 ND5sum: 5dbb2eaf5a80686ef059942ac9ba0d20
@@ -21,7 +21,7 @@ Description: تغییر تم به تم Mac OS
 Maintainer: iAnas
 Author: iAnas
 Section: Theme
-Filename: ./bebs/com.fofofisss.acehighsierra.deb
+Filename: ./debs/com.fofofisss.acehighsierra.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.acehighsierra
 Size: 10719042
 ND5sum: 70ed674f0aa6bb949d1567b53332bfd8
@@ -35,7 +35,7 @@ Description: applist
 Maintainer: Ryan Petrich
 Author: Ryan Petrich
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.applist.deb
+Filename: ./debs/com.fofofisss.applist.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.applist
 Size: 10858
 ND5sum: cd8cc24cb82a6714a6a1a41424d72e22
@@ -49,7 +49,7 @@ Description: کرک کردن توییک ها و اپ ها
 Maintainer: John Coates
 Author: John Coates
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.flex3beta3.deb
+Filename: ./debs/com.fofofisss.flex3beta3.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3
 Size: 18767,086
 ND5sum: 4ad8cb73aa7d37b5ee9746c6421fc956
@@ -63,7 +63,7 @@ Description: کرک کردن اپلیکیشن EXPRESS VPN
 Maintainer: John Coates
 Author: John Coates
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.expressvpn.deb
+Filename: ./debs/com.fofofisss.expressvpn.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.expressvpn
 Size: 2942
 ND5sum: 654ba5462e05c6aaebb48afbe6e4b8b5
@@ -77,7 +77,7 @@ Description: اضافه کردن ریسپرینگ و ریبوت به صفحه ی
 Maintainer: John Coates
 Author: John Coates
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.betterpowerdown.deb
+Filename: ./debs/com.fofofisss.betterpowerdown.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.betterpowerdown
 Size: 65,648
 ND5sum: 6bd45a2dc240b1512bfa779eb8ebdb34
@@ -91,7 +91,7 @@ Description: ترمینال برای ios
 Maintainer: John Coates
 Author: John Coates
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.newterm2.deb
+Filename: ./debs/com.fofofisss.newterm2.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.newterm2
 Size: 739424
 ND5sum: 1a7d4b856392cc19114e7a4356ba9252
@@ -105,7 +105,7 @@ Description: قفل گزاری روی تمام قسمت های گوشی با ا�
 Maintainer: jakeahacks
 Author: jakeahacks
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.bioprotect.deb
+Filename: ./debs/com.fofofisss.bioprotect.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.bioprotect
 Size: 595868
 ND5sum: 1c02f6edc8598b7c1f76133865aec70a
@@ -119,7 +119,7 @@ Description: هک پرداخت های درون برنامه ای
 Maintainer: jakeahacks
 Author: jakeahacks
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.inapp.deb
+Filename: ./debs/com.fofofisss.inapp.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.inapp
 Size: 4080
 ND5sum: 6f6657e364bb0a64b621f6d9aa60878b
@@ -133,7 +133,7 @@ Description: ذخیره کردن shsh تنها با یک کلیک
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.tsssaver.deb
+Filename: ./debs/com.fofofisss.tsssaver.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.tsssaver
 Size: 152032
 MD5sum: fe2e43efaa390e4b81f100175ad1cddb
@@ -148,7 +148,7 @@ Description: نصب اپ ها پولی اپ استور و استخراج فای�
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.appcake.deb
+Filename: ./debs/com.fofofisss.appcake.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appcake
 Size: 10313206
 MD5sum: ac49cfa46b14070fa26c47a82346e04c
@@ -162,7 +162,7 @@ Description: ریستور به ورژن فعلی در ios11.3تا 11.4 بتا 6
 Maintainer: fofofisss
 Author: fofofisss
 Section:  APP
-Filename: ./bebs/com.fofofisss.semirestore11.deb
+Filename: ./debs/com.fofofisss.semirestore11.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.semirestore11
 Size: 87004
 MD5sum: 205920cb3c747fa2578ff2c920215b03
@@ -176,7 +176,7 @@ Description: نصب برنامه بدون کامپیوتر و با فیلزا و
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.appsyncunified.deb
+Filename: ./debs/com.fofofisss.appsyncunified.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appsyncunified
 Size: 29154
 MD5sum: 9324ec4b8957660754d23207275a0e1d
@@ -190,7 +190,7 @@ Description: کرک کردن برنامه ها  توییک ها
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.flex3beta3.deb
+Filename: ./debs/com.fofofisss.flex3beta3.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.flex3beta3
 Size: 18767086
 MD5sum: 4ad8cb73aa7d37b5ee9746c6421fc956
@@ -204,7 +204,7 @@ Description: کرک کردن توییک ها  با یک کلیک
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.cracktool.deb
+Filename: ./debs/com.fofofisss.cracktool.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.cracktool
 Size: 12442
 MD5sum: 53c31487134683b1e0a6a67031f8c29f
@@ -218,7 +218,7 @@ Description: انتقال اهنگ از اپ ها به اپلیکیشن موزی
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.mimport.deb
+Filename: ./debs/com.fofofisss.mimport.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.mimport
 Size: 628510
 MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
@@ -232,7 +232,7 @@ Description: افزودن قابلیت های کاربدی  به اپ سافار
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.safariplus.deb
+Filename: ./debs/com.fofofisss.safariplus.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.safariplus
 Size: 320308
 MD5sum: 5a838fb2ddfcbe2a4f81ff9d99d432f2
@@ -246,7 +246,7 @@ Description: قفل کردن اپ ها با تاچ ای دی و یا فیس ای
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.bioprotectx.deb
+Filename: ./debs/com.fofofisss.bioprotectx.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.bioprotectx
 Size: 595848
 MD5sum: c303d7702cbea1d7f2bf7c59d2e3199b
@@ -260,7 +260,7 @@ Description: نصب و ری ساین کردن برنامه ها
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/extender-installer.deb
+Filename: ./debs/extender-installer.deb
 Depiction: https://fofofisss.github.io/depictions/?p=extender-installer
 Size: 457476
 MD5sum: 95aca239fb1cabe19c13b982d9530fa8
@@ -274,7 +274,7 @@ Description: بکاپ گرفتن از دیتای برنامه ها
 Maintainer: fofofisss
 Author: fofofisss
 Section: APP
-Filename: ./bebs/com.fofofisss.appdatamanager.deb
+Filename: ./debs/com.fofofisss.appdatamanager.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.appdatamanager
 Size: 2154310
 MD5sum: 47035ace06a04dec25905e40629a4983
@@ -288,7 +288,7 @@ Description: نمایش دیتا در صفحه نمایشگوشی
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.datameter.deb
+Filename: ./debs/com.fofofisss.datameter.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.datameter
 Size: 243488
 MD5sum: 80e1bd6c3ce991910ed25f6c77cf1770
@@ -302,7 +302,7 @@ Description: ضبط تماس های ورودی و خروجی
 Maintainer: fofofisss
 Author: fofofisss
 Section: APP
-Filename: ./bebs/com.fofofisss.audiorecorder.deb
+Filename: ./debs/com.fofofisss.audiorecorder.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.audiorecorder
 Size: 3834506
 MD5sum: 5f36f776d8c39cac50142d047a07d06c
@@ -316,7 +316,7 @@ Description: دسترسی به فایل های سیستمی از طریق usb د
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/com.fofofisss.afc2.deb
+Filename: ./debs/com.fofofisss.afc2.deb
 Depiction: https://fofofisss.github.io/depictions/?p=com.fofofisss.afc2
 Size: 
 MD5sum: 
@@ -330,7 +330,7 @@ Description:
 Maintainer: fofofisss
 Author: fofofisss
 Section: Tweaks
-Filename: ./bebs/
+Filename: ./debs/
 Depiction: https://fofofisss.github.io/depictions/?p=
 Size: 
 MD5sum: 
